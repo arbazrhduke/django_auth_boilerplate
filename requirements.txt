@@ -1,0 +1,7 @@
+Django==1.11.15
+django-debug-toolbar==1.10.1
+djangorestframework==3.9.0
+psycopg2-binary==2.7.5
+python-decouple==3.1
+pytz==2018.6
+sqlparse==0.2.4
