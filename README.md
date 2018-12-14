@@ -1,4 +1,4 @@
- - https://www.codefactor.io/repository/github/signalr/signalr/badge?style=plasti
+[![CodeFactor](https://www.codefactor.io/repository/github/arbazrhduke/django_auth_boilerplate/badge)](https://www.codefactor.io/repository/github/arbazrhduke/django_auth_boilerplate)
 # django_auth_boilerplate
 This is a boiler plate code built for custom django user model and token authentication login for Django rest framework projects.
 
