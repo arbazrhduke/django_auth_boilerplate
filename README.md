@@ -1,5 +1,6 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![CodeFactor](https://www.codefactor.io/repository/github/arbazrhduke/django_auth_boilerplate/badge)](https://www.codefactor.io/repository/github/arbazrhduke/django_auth_boilerplate)
+https://travis-ci.org/arbazrhduke/django_auth_boilerplate.svg?branch=master
 # django_auth_boilerplate
 This is a boiler plate code built for custom django user model and token authentication login for Django rest framework projects.
 
